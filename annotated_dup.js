@@ -10,6 +10,7 @@ var annotated_dup =
     [ "others", "d0/d6f/namespaceothers.html", "d0/d6f/namespaceothers" ],
     [ "quadratic_probing", "d4/dd2/namespacequadratic__probing.html", "d4/dd2/namespacequadratic__probing" ],
     [ "range_queries", "dd/d69/namespacerange__queries.html", "dd/d69/namespacerange__queries" ],
+    [ "sort", "da/d83/namespacesort.html", "da/d83/namespacesort" ],
     [ "statistics", "d2/dcf/namespacestatistics.html", "d2/dcf/namespacestatistics" ],
     [ "Btree", "d9/d90/struct_btree.html", "d9/d90/struct_btree" ],
     [ "cll", "d5/d15/classcll.html", "d5/d15/classcll" ],
