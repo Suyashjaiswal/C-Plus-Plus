@@ -1,5 +1,13 @@
 var NAVTREEINDEX3 =
 {
+"d7/d7c/classstatistics_1_1stats__computer1.html#a8ab2b14d5650b14e46b70b412573f60a":[7,0,11,0,6],
+"d7/d7c/classstatistics_1_1stats__computer1.html#aa13bf7c38de112f71921a5525d71a2f2":[7,0,11,0,1],
+"d7/d7c/classstatistics_1_1stats__computer1.html#ab2e69e75fe0da096bf61fa13420b43eb":[7,0,11,0,8],
+"d7/d7c/classstatistics_1_1stats__computer1.html#ab5b4bfecdf391cae7edb1fe98548b846":[7,0,11,0,4],
+"d7/d7c/classstatistics_1_1stats__computer1.html#af57e942d49f4fd70f059f224b4ac07e1":[7,0,11,0,2],
+"d7/d7f/section.html":[3],
+"d7/d83/trie__tree_8cpp.html":[8,0,2,13],
+"d7/d83/trie__tree_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,2,13,2],
 "d7/d83/trie__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,13,1],
 "d7/d89/double__factorial_8cpp.html":[8,0,10,6],
 "d7/d89/double__factorial_8cpp.html#a0a3c417360400093891a9ccddaa4be26":[8,0,10,6,0],
@@ -179,8 +187,8 @@ var NAVTREEINDEX3 =
 "d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa":[5,1,7],
 "d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[5,1,5],
 "d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[8,0,9,1,3],
-"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[5,1,4],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[8,0,9,2,1],
+"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[5,1,4],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[8,0,9,1,1],
 "d9/d69/median__search_8cpp.html":[8,0,15,8],
 "d9/d69/median__search_8cpp.html#a868847218f694e78bf433a0ff7648bae":[8,0,15,8,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX3 =
 "da/d5a/class_complex.html#af8aacf982e2e6c142921bc850f6dc974":[7,0,15,4],
 "da/d77/spirograph_8cpp.html":[8,0,6,0],
 "da/d77/spirograph_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,6,0,1],
-"da/d77/spirograph_8cpp.html#a525335710b53cb064ca56b936120431e":[8,0,6,0,0],
-"da/d77/spirograph_8cpp.html#a8e83a64e8443fff1e5ffdc1c299c1e99":[8,0,6,0,3],
-"da/d77/spirograph_8cpp.html#aeca22dbe4563358960e907a40cd3e1ac":[8,0,6,0,2],
-"da/d7b/primality__test_8cpp.html":[8,0,12,11],
-"da/d7b/primality__test_8cpp.html#a2bfa6adead2bdcbf1dac94cbe08d7eaf":[8,0,12,11,0],
-"da/d7b/primality__test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,12,11,1],
-"da/d83/namespacesort.html":[7,0,10],
-"da/d83/namespacesort.html":[6,0,32],
-"da/d8d/depth__first__search_8cpp.html":[8,0,5,2]
+"da/d77/spirograph_8cpp.html#a525335710b53cb064ca56b936120431e":[8,0,6,0,0]
 };
