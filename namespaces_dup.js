@@ -32,6 +32,7 @@ var namespaces_dup =
     [ "range_queries", "dd/d69/namespacerange__queries.html", null ],
     [ "search", "d9/dca/namespacesearch.html", null ],
     [ "shortest_common_supersequence", "d3/deb/namespaceshortest__common__supersequence.html", null ],
+    [ "sort", "da/d83/namespacesort.html", null ],
     [ "sorting", "d5/d91/namespacesorting.html", null ],
     [ "spirograph", "da/dd3/namespacespirograph.html", null ],
     [ "statistics", "d2/dcf/namespacestatistics.html", null ],

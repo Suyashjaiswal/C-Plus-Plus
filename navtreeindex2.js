@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md36":[2,14],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md37":[2,15],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md38":[2,16],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md39":[2,17],
@@ -8,7 +7,7 @@ var NAVTREEINDEX2 =
 "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html":[7,0,7,0,0],
 "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#a6ae98710503b894b843d01cb69d5490c":[7,0,7,0,0,1],
 "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#af06360122e20ce2ba32c574a27a20ba1":[7,0,7,0,0,0],
-"d5/d91/namespacesorting.html":[6,0,32],
+"d5/d91/namespacesorting.html":[6,0,33],
 "d5/da1/structnode.html":[7,0,29],
 "d5/da1/structnode.html#a063635bc4e984d971d1efeb4230b0515":[7,0,29,5],
 "d5/da1/structnode.html#a0d4a5d1d3d77036ea6640f34b17b6554":[7,0,29,4],
@@ -147,7 +146,7 @@ var NAVTREEINDEX2 =
 "d6/d9d/large__factorial_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[8,0,10,17,0],
 "d6/d9d/large__factorial_8cpp.html#a3f93b60e229b6683e24c4754a7106ee8":[8,0,10,17,1],
 "d6/d9d/large__factorial_8cpp.html#a76aae4778fbe89a3d59fd61fbc050cfa":[8,0,10,17,2],
-"d6/da2/namespacevigenere.html":[6,0,40],
+"d6/da2/namespacevigenere.html":[6,0,41],
 "d6/db0/binomial__dist_8cpp.html":[8,0,13,2],
 "d6/db0/binomial__dist_8cpp.html#a19ae0a6a2bd200fd1eb0e31b2bf4cc76":[8,0,13,2,4],
 "d6/db0/binomial__dist_8cpp.html#a4416a7bc7fa87201883c54cdc4c82813":[8,0,13,2,0],
@@ -213,7 +212,7 @@ var NAVTREEINDEX2 =
 "d7/d35/matrix__exponentiation_8cpp.html#ad8389ed58fd0ec66df248014775ad1fa":[8,0,12,6,4],
 "d7/d35/matrix__exponentiation_8cpp.html#ae1d1ec9482079231e898236e2b23c9ba":[8,0,12,6,1],
 "d7/d35/matrix__exponentiation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,12,6,5],
-"d7/d47/namespace_x_o_r.html":[6,0,41],
+"d7/d47/namespace_x_o_r.html":[6,0,42],
 "d7/d65/shortest__common__supersequence_8cpp.html":[8,0,3,2],
 "d7/d65/shortest__common__supersequence_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,3,2,2],
 "d7/d65/shortest__common__supersequence_8cpp.html#ad2ee8d7e67da9f6eb85146b08dad95e6":[8,0,3,2,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX2 =
 "d7/d7c/classstatistics_1_1stats__computer1.html":[7,0,11,0],
 "d7/d7c/classstatistics_1_1stats__computer1.html#a27f0a03e2fd2254f1c81fe668226bd92":[7,0,11,0,3],
 "d7/d7c/classstatistics_1_1stats__computer1.html#a2a097b80909181880f13b54a264ed337":[7,0,11,0,5],
-"d7/d7c/classstatistics_1_1stats__computer1.html#a390697dcee210b91823ceff04b25081b":[7,0,11,0,0]
+"d7/d7c/classstatistics_1_1stats__computer1.html#a390697dcee210b91823ceff04b25081b":[7,0,11,0,0],
+"d7/d7c/classstatistics_1_1stats__computer1.html#a48c03a44c784eb6913ad186d34c302db":[7,0,11,0,7]
 };
