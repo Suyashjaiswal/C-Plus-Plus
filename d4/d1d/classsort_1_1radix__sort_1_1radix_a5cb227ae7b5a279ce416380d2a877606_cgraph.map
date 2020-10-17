@@ -1,6 +1,0 @@
-<map id="sort::radix_sort::radix::radix_sort" name="sort::radix_sort::radix::radix_sort">
-<area shape="rect" id="node1" title="Function to sort vector digit by digit." alt="" coords="5,39,151,80"/>
-<area shape="rect" id="node2" href="$d4/d1d/classsort_1_1radix__sort_1_1radix.html#ae5cf8da72ded44713d7eaed0f1ba5a0e" title="Function that returns the max element." alt="" coords="199,5,344,47"/>
-<area shape="rect" id="node4" href="$d4/d1d/classsort_1_1radix__sort_1_1radix.html#a1810ce4395b59bce1dc83b22357e5119" title="Function to sort vector according to current digit using stable sorting." alt="" coords="199,71,344,112"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/max.html#" title=" " alt="" coords="392,13,465,39"/>
-</map>

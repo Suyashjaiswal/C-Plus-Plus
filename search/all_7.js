@@ -29,7 +29,7 @@ var searchData=
   ['get_5fidx_5fchar_636',['get_idx_char',['../d6/d26/classciphers_1_1_hill_cipher.html#a12f727cca9e21f9539cd74b6603adf0c',1,'ciphers::HillCipher']]],
   ['get_5finput_637',['get_input',['../dc/dfe/ternary__search_8cpp.html#a7f7d866eccdabe51bb16818a792618b1',1,'ternary_search.cpp']]],
   ['get_5finverse_638',['get_inverse',['../d6/d26/classciphers_1_1_hill_cipher.html#a5a4cdbd4d4dad9efe2ed309bd466dd4b',1,'ciphers::HillCipher::get_inverse()'],['../dc/d38/ordinary__least__squares__regressor_8cpp.html#a98ab8f75d981088369b89b8be2182483',1,'get_inverse():&#160;ordinary_least_squares_regressor.cpp']]],
-  ['get_5fmax_639',['get_max',['../d4/d1d/classsort_1_1radix__sort_1_1radix.html#ae5cf8da72ded44713d7eaed0f1ba5a0e',1,'sort::radix_sort::radix']]],
+  ['get_5fmax_639',['get_max',['../d7/d31/classsorting_1_1radix__sort_1_1radix.html#a50f97f7539ab1c62f32d4c3ee2380430',1,'sorting::radix_sort::radix']]],
   ['get_5fmin_5f2d_640',['get_min_2d',['../d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f',1,'kohonen_som_topology.cpp']]],
   ['get_5fminima_641',['get_minima',['../db/d01/brent__method__extrema_8cpp.html#a1aa76a6d5fd4d333f9072beff1dc486b',1,'get_minima(const std::function&lt; double(double)&gt; &amp;f, double lim_a, double lim_b):&#160;brent_method_extrema.cpp'],['../d6/d7a/golden__search__extrema_8cpp.html#a1aa76a6d5fd4d333f9072beff1dc486b',1,'get_minima(const std::function&lt; double(double)&gt; &amp;f, double lim_a, double lim_b):&#160;golden_search_extrema.cpp']]],
   ['get_5fmoney_642',['get_money',['http://en.cppreference.com/w/cpp/io/manip/get_money.html',0,'std']]],

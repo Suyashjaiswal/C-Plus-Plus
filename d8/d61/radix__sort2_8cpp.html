@@ -112,14 +112,17 @@ Include dependency graph for radix_sort2.cpp:</div>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1d/classsort_1_1radix__sort_1_1radix.html">sort::radix_sort::radix</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class to create a vector and sort it.  <a href="../../d4/d1d/classsort_1_1radix__sort_1_1radix.html#details">More...</a><br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d31/classsorting_1_1radix__sort_1_1radix.html">sorting::radix_sort::radix</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class to create a vector and sort it.  <a href="../../d7/d31/classsorting_1_1radix__sort_1_1radix.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
 Namespaces</h2></td></tr>
 <tr class="memitem:da/d83/namespacesort"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d83/namespacesort.html">sort</a></td></tr>
 <tr class="memdesc:da/d83/namespacesort"><td class="mdescLeft">&#160;</td><td class="mdescRight">Functions for sorting a vector of integers. <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d5/d91/namespacesorting"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d91/namespacesorting.html">sorting</a></td></tr>
+<tr class="memdesc:d5/d91/namespacesorting"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sorting algorithms. <br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:da/dda/namespaceradix__sort"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/namespaceradix__sort.html">radix_sort</a></td></tr>
 <tr class="memdesc:da/dda/namespaceradix__sort"><td class="mdescLeft">&#160;</td><td class="mdescRight">Functions for sorting a vector of integers using radix sort algorithm. <br /></td></tr>
@@ -162,7 +165,7 @@ Functions</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>0 on exit </dd></dl>
 <div class="fragment"><div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;           {</div>
 <div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;    <a class="code" href="../../d8/d61/radix__sort2_8cpp.html#ae7880ce913f3058a35ff106d5be9e243">test1</a>();</div>
-<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;    <a class="code" href="../../d8/d61/radix__sort2_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae">test2</a>(); <span class="comment">// execute the tests</span></div>
+<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;    <a class="code" href="../../d8/d61/radix__sort2_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae">test2</a>();</div>
 <div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;    <span class="keywordtype">int</span> n = 0;</div>
 <div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a> &gt;&gt; n;</div>
 <div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int&gt;</a> ar;</div>
@@ -171,7 +174,7 @@ Functions</h2></td></tr>
 <div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;        <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a> &gt;&gt; x;</div>
 <div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160;        ar.<a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/push_back.html">push_back</a>(x);</div>
 <div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;    }</div>
-<div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;    sorting::radix_sort::radix obj(ar);</div>
+<div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;    sort::radix_sort::radix obj(ar);</div>
 <div class="line"><a name="l00157"></a><span class="lineno">  157</span>&#160;    obj.radix_sort();</div>
 <div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;    obj.show();</div>
 <div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;    <span class="keywordflow">return</span> 0;</div>
@@ -179,7 +182,7 @@ Functions</h2></td></tr>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d8/d61/radix__sort2_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.svg" width="100%" height="415"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d61/radix__sort2_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.svg" width="264" height="139"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
@@ -210,17 +213,11 @@ Here is the call graph for this function:</div>
 <p>Function to test the above algorithm </p><dl class="section return"><dt>Returns</dt><dd>none </dd></dl>
 <div class="fragment"><div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;                    {</div>
 <div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int&gt;</a> ar = {432, 234, 143, 332, 123};</div>
-<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;    <a class="code" href="../../d4/d1d/classsort_1_1radix__sort_1_1radix.html">sort::radix_sort::radix</a> obj(ar);</div>
+<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;    sort::radix_sort::radix obj(ar);</div>
 <div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;    obj.radix_sort();</div>
 <div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;    obj.show();</div>
 <div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;}</div>
-</div><!-- fragment --><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d61/radix__sort2_8cpp_ae7880ce913f3058a35ff106d5be9e243_cgraph.svg" width="570" height="150"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
-</div>
-
+</div><!-- fragment -->
 </div>
 </div>
 <a id="a45d94ead4cf4e1ff9f87c38bc99f59ae"></a>
@@ -249,24 +246,17 @@ Here is the call graph for this function:</div>
 <div class="fragment"><div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;                    {</div>
 <div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int&gt;</a> ar = {213, 3214, 123, 111, 112, 142,</div>
 <div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;                           133, 132,  32,  12,  113};</div>
-<div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;    <a class="code" href="../../d4/d1d/classsort_1_1radix__sort_1_1radix.html">sort::radix_sort::radix</a> obj(ar);</div>
+<div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;    sort::radix_sort::radix obj(ar);</div>
 <div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;    obj.radix_sort();</div>
 <div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;    obj.show();</div>
 <div class="line"><a name="l00140"></a><span class="lineno">  140</span>&#160;}</div>
-</div><!-- fragment --><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d61/radix__sort2_8cpp_a45d94ead4cf4e1ff9f87c38bc99f59ae_cgraph.svg" width="570" height="150"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
-</div>
-
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <div class="ttc" id="aradix__sort2_8cpp_html_ae7880ce913f3058a35ff106d5be9e243"><div class="ttname"><a href="../../d8/d61/radix__sort2_8cpp.html#ae7880ce913f3058a35ff106d5be9e243">test1</a></div><div class="ttdeci">static void test1()</div><div class="ttdef"><b>Definition:</b> radix_sort2.cpp:124</div></div>
 <div class="ttc" id="aradix__sort2_8cpp_html_a45d94ead4cf4e1ff9f87c38bc99f59ae"><div class="ttname"><a href="../../d8/d61/radix__sort2_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae">test2</a></div><div class="ttdeci">static void test2()</div><div class="ttdef"><b>Definition:</b> radix_sort2.cpp:134</div></div>
-<div class="ttc" id="aclasssort_1_1radix__sort_1_1radix_html"><div class="ttname"><a href="../../d4/d1d/classsort_1_1radix__sort_1_1radix.html">sort::radix_sort::radix</a></div><div class="ttdoc">Class to create a vector and sort it.</div><div class="ttdef"><b>Definition:</b> radix_sort2.cpp:43</div></div>
 <div class="ttc" id="avector_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt; int &gt;</a></div></div>
 <div class="ttc" id="apush_back_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/container/vector/push_back.html">std::vector::push_back</a></div><div class="ttdeci">T push_back(T... args)</div></div>
 <div class="ttc" id="abasic_istream_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a></div></div>

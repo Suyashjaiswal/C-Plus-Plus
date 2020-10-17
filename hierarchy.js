@@ -42,7 +42,7 @@ var hierarchy =
     [ "Queue", "dc/db5/struct_queue.html", null ],
     [ "queue< Kind >", "db/da9/classqueue.html", null ],
     [ "Queue_Array", "d0/dd2/class_queue___array.html", null ],
-    [ "sort::radix_sort::radix", "d4/d1d/classsort_1_1radix__sort_1_1radix.html", null ],
+    [ "sorting::radix_sort::radix", "d7/d31/classsorting_1_1radix__sort_1_1radix.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", null ],
     [ "range_queries::heavy_light_decomposition::SG< X >", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html", [
       [ "range_queries::heavy_light_decomposition::HLD< X >", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", null ]
