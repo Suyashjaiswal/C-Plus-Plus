@@ -1,13 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"dc/dfe/ternary__search_8cpp.html":[8,0,15,9],
-"dc/dfe/ternary__search_8cpp.html#a23ad617bfce1e7cf4591059c85c1a027":[8,0,15,9,0],
-"dc/dfe/ternary__search_8cpp.html#a392fb874e547e582e9c66a08a1f23326":[8,0,15,9,2],
-"dc/dfe/ternary__search_8cpp.html#a7f7d866eccdabe51bb16818a792618b1":[8,0,15,9,3],
-"dc/dfe/ternary__search_8cpp.html#a93d0099db95022f1eb90ddfd68f73ead":[8,0,15,9,6],
-"dc/dfe/ternary__search_8cpp.html#ae01eda5098801bb6b5b778828fb4fddc":[8,0,15,9,1],
-"dc/dfe/ternary__search_8cpp.html#ae30dfe2894191bfeffe5b3b1854b95b0":[8,0,15,9,4],
-"dc/dfe/ternary__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,9,5],
 "dc/dfe/ternary__search_8cpp.html#aef655a27eb82efa299bf9d0becf6e9c8":[8,0,15,9,7],
 "dd/d0c/hamiltons__cycle_8cpp.html":[8,0,5,4],
 "dd/d0c/hamiltons__cycle_8cpp.html#a0cc94918b6831f308d4fe4fa27f08299":[8,0,5,4,4],
@@ -192,8 +184,8 @@ var NAVTREEINDEX5 =
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,15,2],
 "df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[8,0,11,15,1],
 "df/dcb/namespacestrings.html":[6,0,39],
-"df/dce/namespacegraph.html":[6,0,9],
 "df/dce/namespacegraph.html":[7,0,4],
+"df/dce/namespacegraph.html":[6,0,9],
 "df/dd0/queue__using__two__stacks_8cpp.html":[8,0,2,9],
 "df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863":[8,0,2,9,1],
 "df/dd0/queue__using__two__stacks_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,9,0],
@@ -249,5 +241,13 @@ var NAVTREEINDEX5 =
 "functions_func_c.html":[7,3,1,3],
 "functions_func_d.html":[7,3,1,4],
 "functions_func_e.html":[7,3,1,5],
-"functions_func_f.html":[7,3,1,6]
+"functions_func_f.html":[7,3,1,6],
+"functions_func_g.html":[7,3,1,7],
+"functions_func_h.html":[7,3,1,8],
+"functions_func_i.html":[7,3,1,9],
+"functions_func_k.html":[7,3,1,10],
+"functions_func_l.html":[7,3,1,11],
+"functions_func_m.html":[7,3,1,12],
+"functions_func_n.html":[7,3,1,13],
+"functions_func_o.html":[7,3,1,14]
 };
