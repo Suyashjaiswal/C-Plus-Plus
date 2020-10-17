@@ -239,7 +239,7 @@ Here is the call graph for this function:</div>
 
 <p>Function to sort vector digit by digit. </p>
 <dl class="section return"><dt>Returns</dt><dd>none </dd></dl>
-<div class="fragment"><div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;                       {</div>
+<div class="fragment"><div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;                        {</div>
 <div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;    <span class="keywordtype">int</span> max_ele = <a class="code" href="../../d4/d1d/classsort_1_1radix__sort_1_1radix.html#ae5cf8da72ded44713d7eaed0f1ba5a0e">get_max</a>();</div>
 <div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 1; max_ele / i &gt; 0;</div>
 <div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;         i *= 10) {  <span class="comment">// loop breaks when i &gt; max_ele because no further digits</span></div>
@@ -306,7 +306,7 @@ Here is the call graph for this function:</div>
 
 <p>Function to sort vector according to current digit using stable sorting. </p>
 <dl class="section return"><dt>Returns</dt><dd>none </dd></dl>
-<div class="fragment"><div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;                                  {  <span class="comment">// sorting according to current digit.</span></div>
+<div class="fragment"><div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;                                   {  <span class="comment">// sorting according to current digit.</span></div>
 <div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int&gt;</a> position(10, 0);</div>
 <div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; n; i++) {</div>
 <div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;        position[(ar[i] / cur_digit) %</div>
