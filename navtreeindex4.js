@@ -1,5 +1,12 @@
 var NAVTREEINDEX4 =
 {
+"da/d77/spirograph_8cpp.html#a525335710b53cb064ca56b936120431e":[8,0,6,0,0],
+"da/d77/spirograph_8cpp.html#a8e83a64e8443fff1e5ffdc1c299c1e99":[8,0,6,0,3],
+"da/d77/spirograph_8cpp.html#aeca22dbe4563358960e907a40cd3e1ac":[8,0,6,0,2],
+"da/d7b/primality__test_8cpp.html":[8,0,12,11],
+"da/d7b/primality__test_8cpp.html#a2bfa6adead2bdcbf1dac94cbe08d7eaf":[8,0,12,11,0],
+"da/d7b/primality__test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,12,11,1],
+"da/d8d/depth__first__search_8cpp.html":[8,0,5,2],
 "da/d8d/depth__first__search_8cpp.html#a2e6017a54d445819ede9adcf33240e1a":[8,0,5,2,1],
 "da/d8d/depth__first__search_8cpp.html#a33d8f7759375aee956643d76df491b7b":[8,0,5,2,0],
 "da/d8d/depth__first__search_8cpp.html#a48acac475cb48614279e7ea784c32fc3":[8,0,5,2,2],
@@ -54,7 +61,7 @@ var NAVTREEINDEX4 =
 "da/dd1/structquadratic__probing_1_1_entry.html":[7,0,8,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[7,0,8,0,1],
 "da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[7,0,8,0,0],
-"da/dd3/namespacespirograph.html":[6,0,34],
+"da/dd3/namespacespirograph.html":[6,0,33],
 "da/dd4/namespacemedian__search.html":[6,0,19],
 "da/dda/namespaceradix__sort.html":[6,0,28],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[8,0,12,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX4 =
 "dc/dd9/strand__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,16,14,2],
 "dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[8,0,16,14,1],
 "dc/dd9/strand__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,16,14,0],
-"dc/dfe/ternary__search_8cpp.html":[8,0,15,9],
-"dc/dfe/ternary__search_8cpp.html#a23ad617bfce1e7cf4591059c85c1a027":[8,0,15,9,0],
-"dc/dfe/ternary__search_8cpp.html#a392fb874e547e582e9c66a08a1f23326":[8,0,15,9,2],
-"dc/dfe/ternary__search_8cpp.html#a7f7d866eccdabe51bb16818a792618b1":[8,0,15,9,3],
-"dc/dfe/ternary__search_8cpp.html#a93d0099db95022f1eb90ddfd68f73ead":[8,0,15,9,6],
-"dc/dfe/ternary__search_8cpp.html#ae01eda5098801bb6b5b778828fb4fddc":[8,0,15,9,1],
-"dc/dfe/ternary__search_8cpp.html#ae30dfe2894191bfeffe5b3b1854b95b0":[8,0,15,9,4],
-"dc/dfe/ternary__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,9,5]
+"dc/dfe/ternary__search_8cpp.html":[8,0,15,9]
 };

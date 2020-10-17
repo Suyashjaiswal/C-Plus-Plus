@@ -1,0 +1,8 @@
+<map id="test1" name="test1">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,56,105"/>
+<area shape="rect" id="node2" href="$d7/d31/classsorting_1_1radix__sort_1_1radix.html#a71fa9ada928c6cb367db0ee444dda56d" title="Function to sort vector digit by digit." alt="" coords="104,37,231,79"/>
+<area shape="rect" id="node6" href="$d7/d31/classsorting_1_1radix__sort_1_1radix.html#a9e19c50592416123bfd0410dc38d1aee" title="Function that print the elements of vector." alt="" coords="104,103,231,144"/>
+<area shape="rect" id="node3" href="$d7/d31/classsorting_1_1radix__sort_1_1radix.html#a50f97f7539ab1c62f32d4c3ee2380430" title="Function that returns the max element." alt="" coords="279,5,405,47"/>
+<area shape="rect" id="node5" href="$d7/d31/classsorting_1_1radix__sort_1_1radix.html#a0b7e847382e94a720aed2b496f55bb93" title="Function to sort vector according to current digit using stable sorting." alt="" coords="279,71,405,112"/>
+<area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/max.html#" title=" " alt="" coords="453,13,527,39"/>
+</map>
