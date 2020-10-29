@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="Algorith of Radix sort">
+<g id="a_node1"><a xlink:title="Algorithm of Radix sort">
 <polygon fill="#bfbfbf" stroke="black" points="70,-56.5 70,-75.5 186,-75.5 186,-56.5 70,-56.5"/>
 <text text-anchor="middle" x="128" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">sorting/radix_sort2.cpp</text>
 </a>
