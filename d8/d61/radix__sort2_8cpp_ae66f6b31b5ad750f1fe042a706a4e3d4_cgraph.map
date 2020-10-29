@@ -1,11 +1,6 @@
 <map id="main" name="main">
-<area shape="rect" id="node1" title="Main function." alt="" coords="5,107,56,133"/>
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,56,56,83"/>
 <area shape="rect" id="node2" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="104,5,259,32"/>
-<area shape="rect" id="node3" href="$d7/d31/classsorting_1_1radix__sort_1_1radix.html#a71fa9ada928c6cb367db0ee444dda56d" title="Function to sort vector digit by digit." alt="" coords="307,93,433,134"/>
-<area shape="rect" id="node7" href="$d7/d31/classsorting_1_1radix__sort_1_1radix.html#a9e19c50592416123bfd0410dc38d1aee" title="Function that print the elements of vector." alt="" coords="307,158,433,199"/>
-<area shape="rect" id="node8" href="$d8/d61/radix__sort2_8cpp.html#ae7880ce913f3058a35ff106d5be9e243" title=" " alt="" coords="156,157,207,184"/>
-<area shape="rect" id="node9" href="$d8/d61/radix__sort2_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae" title=" " alt="" coords="156,107,207,133"/>
-<area shape="rect" id="node4" href="$d7/d31/classsorting_1_1radix__sort_1_1radix.html#a50f97f7539ab1c62f32d4c3ee2380430" title="Function that returns the max element." alt="" coords="481,61,608,102"/>
-<area shape="rect" id="node6" href="$d7/d31/classsorting_1_1radix__sort_1_1radix.html#a0b7e847382e94a720aed2b496f55bb93" title="Function to sort vector according to current digit using stable sorting." alt="" coords="481,126,608,167"/>
-<area shape="rect" id="node5" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/max.html#" title=" " alt="" coords="656,68,729,95"/>
+<area shape="rect" id="node3" href="$d8/d61/radix__sort2_8cpp.html#ae7880ce913f3058a35ff106d5be9e243" title=" " alt="" coords="156,56,207,83"/>
+<area shape="rect" id="node4" href="$d8/d61/radix__sort2_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae" title=" " alt="" coords="156,107,207,133"/>
 </map>
